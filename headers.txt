@@ -1,0 +1,13 @@
+User-Agent: Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 Firefox/91.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+DNT: 1
+Connection: keep-alive
+Cookie: _pxhd=Ts5hxdka4RvDNe5DRcpqSjw5TojOWe-KCRDbw2qFFm8PKx0dBH4zdekUA97gKWE4KUKk/jINajHEQk8MBOkSbw==:CvAgeyqor2AEfeEKiRokW-qxPyMQrJiI8DtHgYVCNfK5wg-FKdyEEbaY1dY0SBWWPbva3UsY6r5f5kZh9lXsQkXtv6jaEIHV7kSTFeFqDA4=; _gcl_au=1.1.1216382140.1653871976; laravel_session=eyJpdiI6InlGSE9iRlNEZCtvNUdqdEFlTHN5T1E9PSIsInZhbHVlIjoiMFEwUEZKMkU2MldrenEzOWF1WnF1UnVVZTVySnc2VGpPaUVzUyttdjZPNm9qcDhOVDlSVFlmRGFvZlRvVnZNMiIsIm1hYyI6Ijg5NmFjNDM1ZWM0ZjM0NzQwNDRiMGU3YmZhZWMxZmM4Y2U2NGQ4YmE4YTI1M2ZiMzg0MjY0Yzg3NmY3NDljOWEifQ%3D%3D; AWSELB=4BFD87B90808B3DAE295A8DC419496EC6D4C647156ED203333B9B673C46A4C8A5B2C6B851F2BB60AD56D589DBFD02062D68A7C68F35CA6948D86A538121E081B0D95EBB1C7; _uc_referrer=https://www.usphonebook.com/; _pbjs_userid_consent_data=3524755945110770; _lr_retry_request=true; _lr_env_src_ats=false
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+Sec-GPC: 1
